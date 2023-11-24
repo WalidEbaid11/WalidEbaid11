@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walid Ebaid</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=walidebaid11&label=Profile%20views&color=0e75b6&style=flat" alt="walidebaid11" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidebaid11" alt="walidebaid11" /></a> </p>
 
