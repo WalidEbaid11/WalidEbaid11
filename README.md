@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid Ebaid</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">Software Engineer from Egypt</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walidebaid11&label=Profile%20views&color=0e75b6&style=flat" alt="walidebaid11" /> </p>
 
