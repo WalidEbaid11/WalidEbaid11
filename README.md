@@ -39,7 +39,7 @@
 ###
 
 <br clear="both">
-
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
