@@ -38,8 +38,10 @@
 
 ###
 
-<br clear="both">
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ###
