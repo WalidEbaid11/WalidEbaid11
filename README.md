@@ -22,7 +22,7 @@
 ---
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgflip.com/gif/9hol2j"  />
 
 ###
 <a href="https://github.com/WalidEbaid11"><img src="https://github-readme-stats.vercel.app/api?username=WalidEbaid11&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="WalidEbaid11" /></a>
