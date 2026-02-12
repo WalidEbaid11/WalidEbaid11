@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walid Obeid</h1>
+<h1 align="center">Hi 👋, I'm Walid Ebaid</h1>
 <h3 align="center">Backend Engineer | Python & Django Specialist | Problem Solver</h3>
 
 <p align="center">
