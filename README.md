@@ -1,16 +1,3 @@
-<!-- HEADER WITH NEON GRADIENT -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Walid%20Ebaid&fontSize=70&color=gradient&animation=twinkling&desc=Backend%20Engineer%20%7C%20Django%20%7C%20Scalable%20Systems&descColor=00FFFF&descAlign=60" />
-</p>
-
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;REST+APIs+%7C+Distributed+Systems;LLM+Trainer+%7C+Problem+Solver" />
-</p>
-
----
-
----
 <h1 align="center">Hi 👋, I'm Walid Ebaid</h1>
 <h3 align="center">Backend Engineer | Python & Django Specialist | Problem Solver</h3>
 
@@ -73,6 +60,27 @@
 > I engineer systems.
 
 ---
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidEbaid11&theme=react-dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-ebaid-ba4074193/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:walid@example.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
