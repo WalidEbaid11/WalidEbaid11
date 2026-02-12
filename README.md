@@ -1,14 +1,14 @@
-<!-- HEADER -->
+<!-- HEADER WITH NEON GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Walid%20Obeid&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Django%20Specialist%20%7C%20System%20Design&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Walid%20Ebaid&fontSize=70&color=gradient&animation=twinkling&desc=Backend%20Engineer%20%7C%20Django%20%7C%20Scalable%20Systems&descColor=00FFFF&descAlign=60" />
 </p>
-
----
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;REST+APIs+%7C+Distributed+Systems;Problem+Solver+%7C+LLM+Trainer;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;REST+APIs+%7C+Distributed+Systems;LLM+Trainer+%7C+Problem+Solver" />
 </p>
+
+---
 
 ---
 <h1 align="center">Hi 👋, I'm Walid Ebaid</h1>
